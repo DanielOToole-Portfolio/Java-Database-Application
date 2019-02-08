@@ -1,0 +1,6 @@
+mgr
+John Smith
+018
+JohnSmith@gmail.com
+006
+New York
